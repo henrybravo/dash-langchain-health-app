@@ -1,3 +1,10 @@
+*.joblib
+*.gguf
+*.bin
+.ipynb_checkpoints
+.ipython_config
+.dockerignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
